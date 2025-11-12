@@ -1,4 +1,8 @@
 user-agent: *
 allow: /$
+disallow: /
+allow: /elaboration
+allow: /experience
 allow: /profile$
 disallow: /profile/archives/*
+allow: /pure-tasks
