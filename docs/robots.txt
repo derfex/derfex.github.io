@@ -4,5 +4,6 @@ disallow: /
 allow: /elaboration
 allow: /experience
 allow: /profile$
+disallow: /profile/archives
 disallow: /profile/archives/*
 allow: /pure-tasks
