@@ -7,3 +7,6 @@ allow: /profile$
 disallow: /profile/archives
 disallow: /profile/archives/*
 allow: /pure-tasks
+allow: /web-invitation$
+disallow: /web-invitation/archives
+disallow: /web-invitation/archives/*
