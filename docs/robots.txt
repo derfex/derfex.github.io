@@ -6,6 +6,12 @@ allow: /experience
 allow: /profile$
 disallow: /profile/archives
 disallow: /profile/archives/*
+allow: /profile/portfolio/apps/philistine-calculations$
+disallow: /profile/portfolio/apps/philistine-calculations/archives
+disallow: /profile/portfolio/apps/philistine-calculations/archives/*
+allow: /profile/portfolio/apps/vehicles-registry$
+disallow: /profile/portfolio/apps/vehicles-registry/archives
+disallow: /profile/portfolio/apps/vehicles-registry/archives/*
 allow: /pure-tasks
 allow: /web-invitation$
 disallow: /web-invitation/archives
